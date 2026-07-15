@@ -62,9 +62,6 @@ With over 7 years of hands-on experience, I'm passionate about clean architectur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamraydoan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamraydoan&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamraydoan&theme=default&hide_border=true" alt="GitHub Streak" />
 
 </div>
